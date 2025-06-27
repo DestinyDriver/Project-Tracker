@@ -23,6 +23,10 @@ A real-time activity tracking web application built with **Node.js**, **Express.
 
 ---
 
+### 🌐 Live Demo: [tracker-sbm1.onrender.com](https://tracker-sbm1.onrender.com)
+
+---
+
 ## 🛠 Setup & Installation
 
 1. **Clone the repository:**
