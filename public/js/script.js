@@ -47,7 +47,7 @@ socket.on("user-dis",(id)=>{
     }
 })
 
-setInterval(()=>{console.log(Object.keys(marker).length);},2000);
+// setInterval(()=>{console.log(Object.keys(marker).length);},2000);
 
 
 
